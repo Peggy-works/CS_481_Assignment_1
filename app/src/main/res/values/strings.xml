@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment1_AngelSamora_RagirZebari</string>
+    <string name="grade_activity">Go to Grade Activity</string>d
+    <string name="text_grade_input_hint">Enter Grade</string>
+    <string name="grade_button">Grade</string>
+    <string name="back_button">Back</string>
+    <string name="grade_score"></string>
+    <string-array name="angel_info">
+        <item>Name: Angel Samora</item>
+        <item>Department: CS</item>
+        <item>Year: 2023</item>
+    </string-array>
+    <string-array name="ragir_info">
+        <item>Name: Ragir Zebari</item>
+        <item>Department: CS</item>
+        <item>Year: 2023</item>
+    </string-array>
+</resources>
